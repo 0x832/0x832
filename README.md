@@ -5,7 +5,7 @@
 
 🎯 Actualmente trabajando en:
 - [DataFinder](https://github.com/0x832/DataFinder) – *Herramienta de automatización para búsquedas avanzadas en Google (Google Dorking) orientada a OSINT.*
-- [Mi portafolio personal](https://0x832.github.io/) – *Repositorio de proyectos, artículos y herramientas.*
+- [Mi portafolio personal](https://0x832.github.io/) – *Repositorio de proyectos y herramientas.*
 
 📚 En proceso de aprendizaje:
 - **Scripting** con Python y Bash.
